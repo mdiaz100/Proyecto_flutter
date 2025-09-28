@@ -1,4 +1,4 @@
-````markdown
+
 # 🛍️ E-commerce Flutter App
 
 Este es un **proyecto de e-commerce desarrollado en Flutter**, que consume la API pública de [DummyJSON](https://dummyjson.com/).  
@@ -14,7 +14,7 @@ Los endpoints más relevantes usados en este proyecto son:
 - **Obtener productos**:  
   ```http
   GET https://dummyjson.com/products?limit=10&skip=0
-````
+
 
 * **Buscar productos**:
 
