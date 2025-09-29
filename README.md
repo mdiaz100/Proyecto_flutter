@@ -100,6 +100,6 @@ Es decir, los productos creados o editados funcionan en tiempo de ejecución, pe
 
 👉 Aquí puedes ver el funcionamiento completo de la aplicación en YouTube:
 
-[!Ver video](https://youtube.com/watch?v=ID_DEL_VIDEO)
+[!Ver video](https://youtu.be/pUOrFcYWDsw)
 
 ---
